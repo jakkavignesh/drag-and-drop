@@ -1,0 +1,48 @@
+body {
+  background-color: rgb(249, 207, 207);
+  color: white;
+}
+
+table, td, th {
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin-left : 500px
+}
+
+.rcorners {
+    background: #ec8282;  
+    width: 140px;
+    height: 120px;
+    font-size:25px;
+    color:white;
+    text-align: center;    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
+.rcorners2 {
+    background: #ec8282;;
+    padding: 20px;
+    width: 140px;
+    height: 120px;
+}
+
+.rcorners3 {
+  background: #ec8282;;
+  padding: 20px;
+  width: 140px;
+  height: 120px;
+}
+
+.btn {
+  background-color: #421d1d;
+  color : white;
+  width : 100px;
+  height:35px;
+}
+
+.rcorners:hover {
+  width : 200px;
+  height: 200px;
+}
