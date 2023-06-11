@@ -20,5 +20,5 @@ function drop(ev) {
 
 function reset() {
   // redirectToPage('https://myfirstvignesh.000webhostapp.com/');
-  window.location.href = 'https://myfirstvignesh.000webhostapp.com/';
+  window.location.href = 'https://jakkavignesh.github.io/drag-and-drop.github.io/';
 }
